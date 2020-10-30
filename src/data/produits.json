@@ -1,0 +1,40 @@
+{
+    "produits": [
+      {
+        "nom": "pomme",
+        "prix": "0.5",
+        "quantite": "10",
+        "categorie": "fruit",
+        "image": "https://produits.bienmanger.com/35111-0w470h470_Pommes_Story_France_Bio.jpg"
+      },
+      {
+        "nom": "salade",
+        "prix": "0.7",
+        "quantite": "0",
+        "categorie": "legume",
+        "image": "https://lepanierlocal.fr/64-large_default/salade-verte.jpg"
+      },
+      {
+        "nom": "fraise",
+        "prix": "0.2",
+        "quantite": "15",
+        "categorie": "fruit",
+        "image": "https://cdn.shopify.com/s/files/1/1011/5498/products/fraise-fond-blanc_1024x1024.jpg?v=1527556152"
+      },
+      {
+        "nom": "pasteque",
+        "prix": "1.2",
+        "quantite": "3",
+        "categorie": "fruit",
+        "image": "https://imagelecourrier.vnanet.vn/uploaded/2019/11/7/11473993946-4702.jpg"
+      },
+      {
+        "nom": "concombre",
+        "prix": "0.9",
+        "quantite": "3",
+        "categorie": "legume",
+        "image": "https://www.jaimefruitsetlegumes.ca/wp-content/uploads/2019/08/cucumbers-700x700.jpg"
+      }
+      
+    ]
+}
